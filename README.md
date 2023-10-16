@@ -3,7 +3,7 @@ This course was developed by the TensorFlow team and Udacity as a practical appr
 
 ## Overview
 
-Learned how to deploy deep learning models on mobile and embedded devices with TensorFlow Lite.  You'll get hands-on experience with the TensorFlow Lite framework as you deploy deep learning models on Android, iOS, and even an embedded Linux platform. By the end of this course, you'll have all the skills necessary to start deploying your own deep learning models into your apps.
+Learned how to deploy deep learning models on mobile and embedded devices with TensorFlow Lite.  Got hands-on experience with the TensorFlow Lite framework as I deployed deep learning models on Android, iOS, and even an embedded Linux platform. By the end of this course, I had all the skills necessary to start deploying my own deep learning model into my apps.
 
 ### Syllabus
 
