@@ -1,6 +1,9 @@
 # Introduction-to-Tensorflow-lite
 This course was developed by the TensorFlow team and Udacity as a practical approach to model deployment for software developers.
 
+![image](https://github.com/sondosaabed/Introduction-to-Tensorflow-lite/assets/65151701/990b6f99-70b9-412b-ae60-b4ed9c18795a)
+
+
 ## Overview
 
 Learned how to deploy deep learning models on mobile and embedded devices with TensorFlow Lite.  Got hands-on experience with the TensorFlow Lite framework as I deployed deep learning models on Android, iOS, and even an embedded Linux platform. By the end of this course, I had all the skills necessary to start deploying my own deep learning model into my apps.
